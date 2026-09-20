@@ -1,0 +1,17 @@
+[project]
+name = "ai-poc"
+version = "0.1.0"
+description = "P² Suite — four independent Next.js proof-of-concept apps (HR retention, finance tax recovery, production planning, sales intelligence) exploring predictive, advisory workflows on synthesized data."
+readme = "README.md"
+authors = [
+    { name = "Purnank Gogarkar", email = "purnank18@gmail.com" }
+]
+requires-python = ">=3.14"
+dependencies = []
+
+[project.scripts]
+ai-poc = "ai_poc:main"
+
+[build-system]
+requires = ["uv_build>=0.12.2,<0.13.0"]
+build-backend = "uv_build"

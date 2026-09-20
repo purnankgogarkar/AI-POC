@@ -1,0 +1,502 @@
+[
+  {
+    "id": "ACC001",
+    "name": "Brightpath Trading Co.",
+    "country": "Australia",
+    "city": "Melbourne",
+    "tier": "SMB",
+    "segment": "Regional Distributor",
+    "relationshipMonths": 41,
+    "historicalWinRate": 0.49
+  },
+  {
+    "id": "ACC002",
+    "name": "Everline Select Stores",
+    "country": "Singapore",
+    "city": "Singapore",
+    "tier": "SMB",
+    "segment": "Specialty Retailer",
+    "relationshipMonths": 23,
+    "historicalWinRate": 0.53
+  },
+  {
+    "id": "ACC003",
+    "name": "Vantage Stores",
+    "country": "Singapore",
+    "city": "Singapore",
+    "tier": "SMB",
+    "segment": "Retail Chain",
+    "relationshipMonths": 6,
+    "historicalWinRate": 0.64
+  },
+  {
+    "id": "ACC004",
+    "name": "Goldleaf Specialty Retail",
+    "country": "India",
+    "city": "Bengaluru",
+    "tier": "SMB",
+    "segment": "Specialty Retailer",
+    "relationshipMonths": 55,
+    "historicalWinRate": 0.51
+  },
+  {
+    "id": "ACC005",
+    "name": "Ironbridge Select Stores",
+    "country": "India",
+    "city": "Bengaluru",
+    "tier": "Enterprise",
+    "segment": "Specialty Retailer",
+    "relationshipMonths": 20,
+    "historicalWinRate": 0.42
+  },
+  {
+    "id": "ACC006",
+    "name": "Highfield Specialty Retail",
+    "country": "Singapore",
+    "city": "Singapore",
+    "tier": "Mid-Market",
+    "segment": "Specialty Retailer",
+    "relationshipMonths": 13,
+    "historicalWinRate": 0.35
+  },
+  {
+    "id": "ACC007",
+    "name": "Amberfield Stores",
+    "country": "China",
+    "city": "Beijing",
+    "tier": "Mid-Market",
+    "segment": "Retail Chain",
+    "relationshipMonths": 32,
+    "historicalWinRate": 0.44
+  },
+  {
+    "id": "ACC008",
+    "name": "Pinegrove Trading Co.",
+    "country": "India",
+    "city": "Delhi",
+    "tier": "Enterprise",
+    "segment": "Regional Distributor",
+    "relationshipMonths": 18,
+    "historicalWinRate": 0.48
+  },
+  {
+    "id": "ACC009",
+    "name": "Crestpoint Boutique Electronics",
+    "country": "China",
+    "city": "Beijing",
+    "tier": "Mid-Market",
+    "segment": "Specialty Retailer",
+    "relationshipMonths": 27,
+    "historicalWinRate": 0.54
+  },
+  {
+    "id": "ACC010",
+    "name": "Meridian Distributors",
+    "country": "India",
+    "city": "Bengaluru",
+    "tier": "Mid-Market",
+    "segment": "Regional Distributor",
+    "relationshipMonths": 38,
+    "historicalWinRate": 0.31
+  },
+  {
+    "id": "ACC011",
+    "name": "Pinegrove Retail Group",
+    "country": "China",
+    "city": "Shanghai",
+    "tier": "Enterprise",
+    "segment": "Retail Chain",
+    "relationshipMonths": 28,
+    "historicalWinRate": 0.39
+  },
+  {
+    "id": "ACC012",
+    "name": "Falcon Point Distributors",
+    "country": "India",
+    "city": "Bengaluru",
+    "tier": "Mid-Market",
+    "segment": "Regional Distributor",
+    "relationshipMonths": 23,
+    "historicalWinRate": 0.38
+  },
+  {
+    "id": "ACC013",
+    "name": "Northstar Trading Co.",
+    "country": "Indonesia",
+    "city": "Jakarta",
+    "tier": "Enterprise",
+    "segment": "Regional Distributor",
+    "relationshipMonths": 52,
+    "historicalWinRate": 0.42
+  },
+  {
+    "id": "ACC014",
+    "name": "Bluewave Supply Group",
+    "country": "Australia",
+    "city": "Melbourne",
+    "tier": "Enterprise",
+    "segment": "Regional Distributor",
+    "relationshipMonths": 36,
+    "historicalWinRate": 0.24
+  },
+  {
+    "id": "ACC015",
+    "name": "Alpine Trading Co.",
+    "country": "Singapore",
+    "city": "Singapore",
+    "tier": "Enterprise",
+    "segment": "Regional Distributor",
+    "relationshipMonths": 18,
+    "historicalWinRate": 0.56
+  },
+  {
+    "id": "ACC016",
+    "name": "Anchor Retail Network",
+    "country": "India",
+    "city": "Mumbai",
+    "tier": "SMB",
+    "segment": "Retail Chain",
+    "relationshipMonths": 31,
+    "historicalWinRate": 0.51
+  },
+  {
+    "id": "ACC017",
+    "name": "Brightpath Boutique Electronics",
+    "country": "China",
+    "city": "Shanghai",
+    "tier": "Enterprise",
+    "segment": "Specialty Retailer",
+    "relationshipMonths": 20,
+    "historicalWinRate": 0.44
+  },
+  {
+    "id": "ACC018",
+    "name": "Goldleaf Distributors",
+    "country": "China",
+    "city": "Shanghai",
+    "tier": "Mid-Market",
+    "segment": "Regional Distributor",
+    "relationshipMonths": 33,
+    "historicalWinRate": 0.47
+  },
+  {
+    "id": "ACC019",
+    "name": "Westgate Retail Group",
+    "country": "Japan",
+    "city": "Osaka",
+    "tier": "Mid-Market",
+    "segment": "Retail Chain",
+    "relationshipMonths": 21,
+    "historicalWinRate": 0.39
+  },
+  {
+    "id": "ACC020",
+    "name": "Silverline Boutique Electronics",
+    "country": "India",
+    "city": "Mumbai",
+    "tier": "SMB",
+    "segment": "Specialty Retailer",
+    "relationshipMonths": 50,
+    "historicalWinRate": 0.51
+  },
+  {
+    "id": "ACC021",
+    "name": "Pinegrove Distributors",
+    "country": "Australia",
+    "city": "Sydney",
+    "tier": "Mid-Market",
+    "segment": "Regional Distributor",
+    "relationshipMonths": 35,
+    "historicalWinRate": 0.25
+  },
+  {
+    "id": "ACC022",
+    "name": "Alpine Distributors",
+    "country": "Singapore",
+    "city": "Singapore",
+    "tier": "Mid-Market",
+    "segment": "Regional Distributor",
+    "relationshipMonths": 32,
+    "historicalWinRate": 0.35
+  },
+  {
+    "id": "ACC023",
+    "name": "Coral Bay Digital Retail",
+    "country": "China",
+    "city": "Shenzhen",
+    "tier": "Enterprise",
+    "segment": "Online Marketplace Partner",
+    "relationshipMonths": 39,
+    "historicalWinRate": 0.51
+  },
+  {
+    "id": "ACC024",
+    "name": "Brightpath Select Stores",
+    "country": "Indonesia",
+    "city": "Jakarta",
+    "tier": "Enterprise",
+    "segment": "Specialty Retailer",
+    "relationshipMonths": 17,
+    "historicalWinRate": 0.34
+  },
+  {
+    "id": "ACC025",
+    "name": "Ironbridge Specialty Retail",
+    "country": "India",
+    "city": "Mumbai",
+    "tier": "Mid-Market",
+    "segment": "Specialty Retailer",
+    "relationshipMonths": 31,
+    "historicalWinRate": 0.38
+  },
+  {
+    "id": "ACC026",
+    "name": "Goldleaf Stores",
+    "country": "India",
+    "city": "Delhi",
+    "tier": "Mid-Market",
+    "segment": "Retail Chain",
+    "relationshipMonths": 34,
+    "historicalWinRate": 0.45
+  },
+  {
+    "id": "ACC027",
+    "name": "Crestpoint Select Stores",
+    "country": "China",
+    "city": "Beijing",
+    "tier": "Mid-Market",
+    "segment": "Specialty Retailer",
+    "relationshipMonths": 19,
+    "historicalWinRate": 0.4
+  },
+  {
+    "id": "ACC028",
+    "name": "Ironbridge Digital Retail",
+    "country": "Indonesia",
+    "city": "Jakarta",
+    "tier": "SMB",
+    "segment": "Online Marketplace Partner",
+    "relationshipMonths": 14,
+    "historicalWinRate": 0.36
+  },
+  {
+    "id": "ACC029",
+    "name": "Goldleaf Marketplace Ventures",
+    "country": "Indonesia",
+    "city": "Jakarta",
+    "tier": "SMB",
+    "segment": "Online Marketplace Partner",
+    "relationshipMonths": 32,
+    "historicalWinRate": 0.67
+  },
+  {
+    "id": "ACC030",
+    "name": "Northstar Distributors",
+    "country": "China",
+    "city": "Shenzhen",
+    "tier": "Mid-Market",
+    "segment": "Regional Distributor",
+    "relationshipMonths": 58,
+    "historicalWinRate": 0.49
+  },
+  {
+    "id": "ACC031",
+    "name": "Westgate Trading Co.",
+    "country": "India",
+    "city": "Bengaluru",
+    "tier": "Mid-Market",
+    "segment": "Regional Distributor",
+    "relationshipMonths": 47,
+    "historicalWinRate": 0.48
+  },
+  {
+    "id": "ACC032",
+    "name": "Goldleaf Distributors",
+    "country": "India",
+    "city": "Bengaluru",
+    "tier": "Enterprise",
+    "segment": "Regional Distributor",
+    "relationshipMonths": 38,
+    "historicalWinRate": 0.59
+  },
+  {
+    "id": "ACC033",
+    "name": "Amberfield Trading Co.",
+    "country": "China",
+    "city": "Shenzhen",
+    "tier": "SMB",
+    "segment": "Regional Distributor",
+    "relationshipMonths": 21,
+    "historicalWinRate": 0.38
+  },
+  {
+    "id": "ACC034",
+    "name": "Skyline Stores",
+    "country": "China",
+    "city": "Shenzhen",
+    "tier": "Mid-Market",
+    "segment": "Retail Chain",
+    "relationshipMonths": 26,
+    "historicalWinRate": 0.37
+  },
+  {
+    "id": "ACC035",
+    "name": "Vantage Stores",
+    "country": "Australia",
+    "city": "Melbourne",
+    "tier": "SMB",
+    "segment": "Retail Chain",
+    "relationshipMonths": 43,
+    "historicalWinRate": 0.54
+  },
+  {
+    "id": "ACC036",
+    "name": "Tidewater eCommerce Group",
+    "country": "China",
+    "city": "Beijing",
+    "tier": "Enterprise",
+    "segment": "Online Marketplace Partner",
+    "relationshipMonths": 48,
+    "historicalWinRate": 0.37
+  },
+  {
+    "id": "ACC037",
+    "name": "Tidewater Select Stores",
+    "country": "Singapore",
+    "city": "Singapore",
+    "tier": "Enterprise",
+    "segment": "Specialty Retailer",
+    "relationshipMonths": 37,
+    "historicalWinRate": 0.61
+  },
+  {
+    "id": "ACC038",
+    "name": "Ironbridge Distributors",
+    "country": "China",
+    "city": "Shanghai",
+    "tier": "Mid-Market",
+    "segment": "Regional Distributor",
+    "relationshipMonths": 37,
+    "historicalWinRate": 0.56
+  },
+  {
+    "id": "ACC039",
+    "name": "Pinegrove Trading Co.",
+    "country": "Japan",
+    "city": "Osaka",
+    "tier": "Mid-Market",
+    "segment": "Regional Distributor",
+    "relationshipMonths": 21,
+    "historicalWinRate": 0.62
+  },
+  {
+    "id": "ACC040",
+    "name": "Harborlight Select Stores",
+    "country": "Indonesia",
+    "city": "Surabaya",
+    "tier": "Mid-Market",
+    "segment": "Specialty Retailer",
+    "relationshipMonths": 9,
+    "historicalWinRate": 0.58
+  },
+  {
+    "id": "ACC041",
+    "name": "Tidewater Stores",
+    "country": "Japan",
+    "city": "Tokyo",
+    "tier": "Mid-Market",
+    "segment": "Retail Chain",
+    "relationshipMonths": 50,
+    "historicalWinRate": 0.54
+  },
+  {
+    "id": "ACC042",
+    "name": "Vantage Distributors",
+    "country": "India",
+    "city": "Delhi",
+    "tier": "Mid-Market",
+    "segment": "Regional Distributor",
+    "relationshipMonths": 59,
+    "historicalWinRate": 0.59
+  },
+  {
+    "id": "ACC043",
+    "name": "Falcon Point Trading Co.",
+    "country": "India",
+    "city": "Delhi",
+    "tier": "Mid-Market",
+    "segment": "Regional Distributor",
+    "relationshipMonths": 21,
+    "historicalWinRate": 0.44
+  },
+  {
+    "id": "ACC044",
+    "name": "Lighthouse Retail Group",
+    "country": "India",
+    "city": "Bengaluru",
+    "tier": "Mid-Market",
+    "segment": "Retail Chain",
+    "relationshipMonths": 29,
+    "historicalWinRate": 0.49
+  },
+  {
+    "id": "ACC045",
+    "name": "Northstar Select Stores",
+    "country": "China",
+    "city": "Shenzhen",
+    "tier": "SMB",
+    "segment": "Specialty Retailer",
+    "relationshipMonths": 14,
+    "historicalWinRate": 0.61
+  },
+  {
+    "id": "ACC046",
+    "name": "Clearview Boutique Electronics",
+    "country": "Singapore",
+    "city": "Singapore",
+    "tier": "SMB",
+    "segment": "Specialty Retailer",
+    "relationshipMonths": 27,
+    "historicalWinRate": 0.31
+  },
+  {
+    "id": "ACC047",
+    "name": "Amberfield Stores",
+    "country": "Australia",
+    "city": "Melbourne",
+    "tier": "Mid-Market",
+    "segment": "Retail Chain",
+    "relationshipMonths": 49,
+    "historicalWinRate": 0.3
+  },
+  {
+    "id": "ACC048",
+    "name": "Everline Retail Group",
+    "country": "Australia",
+    "city": "Melbourne",
+    "tier": "Enterprise",
+    "segment": "Retail Chain",
+    "relationshipMonths": 48,
+    "historicalWinRate": 0.44
+  },
+  {
+    "id": "ACC049",
+    "name": "Everline Specialty Retail",
+    "country": "China",
+    "city": "Beijing",
+    "tier": "SMB",
+    "segment": "Specialty Retailer",
+    "relationshipMonths": 35,
+    "historicalWinRate": 0.44
+  },
+  {
+    "id": "ACC050",
+    "name": "Cornerstone Retail Network",
+    "country": "Japan",
+    "city": "Osaka",
+    "tier": "Mid-Market",
+    "segment": "Retail Chain",
+    "relationshipMonths": 34,
+    "historicalWinRate": 0.49
+  }
+]
